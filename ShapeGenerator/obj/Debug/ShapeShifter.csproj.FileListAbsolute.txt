@@ -1,0 +1,10 @@
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\bin\Debug\ShapeGenerator.exe.config
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\bin\Debug\ShapeGenerator.exe
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\bin\Debug\ShapeGenerator.pdb
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\obj\Debug\ShapeGenerator.Form1.resources
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\obj\Debug\ShapeGenerator.Properties.Resources.resources
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\obj\Debug\ShapeShifter.csproj.GenerateResource.Cache
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\obj\Debug\ShapeShifter.csproj.CoreCompileInputs.cache
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\obj\Debug\ShapeGenerator.exe
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\obj\Debug\ShapeGenerator.pdb
+E:\Documents\Programming\C#\ShapeGenerator\ShapeGenerator\obj\Debug\ShapeShifter.csprojResolveAssemblyReference.cache
